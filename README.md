@@ -55,8 +55,8 @@ object Mordechay {
 <td width="50%" valign="top">
 
 ### 🌐 [translateApp](https://github.com/Mordechay0000/translateApp)
-<!-- TODO: one line – what problem does it solve, and for whom? -->
-`Java` · `Android`
+Android tool for localizing apps: parses a `strings.xml` file, prepares its text for any translation service, and rebuilds a valid translated resource file.
+`Java` · `Android` · `i18n`
 
 </td>
 <td width="50%" valign="top">
@@ -78,8 +78,8 @@ Mobile admin interface for the Yemot IVR phone system, built on its public API.
 <td width="50%" valign="top">
 
 ### 🤖 [goallm](https://github.com/Mordechay0000/goallm)
-<!-- TODO: one line – what does it do? -->
-`Python` · `LLM`
+Real-time filtering proxy built on mitmproxy: inspects HTTP/HTTPS text, HTML, images and PDFs by per-site policies, profiles, schedules and rules, all managed from a FastAPI + React admin panel.
+`Python` · `mitmproxy` · `FastAPI` · `React`
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ Mobile admin interface for the Yemot IVR phone system, built on its public API.
 ## 🔭 Currently working on
 
 - 🏠 **Home Assistant scheduler** – time-based scheduling integration with a Lovelace card and a Shabbat / Yom Tov plan editor
-- 🛡️ **Smart content filtering** – AI-powered image and traffic filtering with adjustable levels, custom rules and exceptions, built with privacy and user control in mind
+- 🛡️ **Smart content filtering ([goallm](https://github.com/Mordechay0000/goallm))** – AI-powered image and traffic filtering with adjustable levels, custom rules and exceptions, built with privacy and user control in mind
 
 ---
 
