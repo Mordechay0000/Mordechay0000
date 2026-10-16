@@ -54,11 +54,20 @@ object Mordechay {
 <tr>
 <td width="50%" valign="top">
 
+### 🤖 [goallm](https://github.com/Mordechay0000/goallm)
+Real-time filtering proxy built on mitmproxy: inspects HTTP/HTTPS text, HTML, images and PDFs by per-site policies, profiles, schedules and rules, all managed from a FastAPI + React admin panel.
+`Python` · `mitmproxy` · `FastAPI` · `React`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 [translateApp](https://github.com/Mordechay0000/translateApp)
 Android tool for localizing apps: parses a `strings.xml` file, prepares its text for any translation service, and rebuilds a valid translated resource file.
 `Java` · `Android` · `i18n`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ⚙️ [selectVersion](https://github.com/Mordechay0000/selectVersion)
@@ -66,20 +75,11 @@ Custom Android ROM configurator: lets users enable or disable any app and featur
 `Java` · `Android` · `ROM`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📞 [yemotAppNew](https://github.com/Mordechay0000/yemotAppNew)
 Mobile admin interface for the Yemot IVR phone system, built on its public API.
 `Java` · `Android` · `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [goallm](https://github.com/Mordechay0000/goallm)
-Real-time filtering proxy built on mitmproxy: inspects HTTP/HTTPS text, HTML, images and PDFs by per-site policies, profiles, schedules and rules, all managed from a FastAPI + React admin panel.
-`Python` · `mitmproxy` · `FastAPI` · `React`
 
 </td>
 </tr>
@@ -109,7 +109,6 @@ Real-time filtering proxy built on mitmproxy: inspects HTTP/HTTPS text, HTML, im
 
 ## 📫 Let's talk
 
-Open to collaboration and work opportunities.
-The best way to reach me is <!-- TODO: email / LinkedIn --> or an issue on any of my repositories.
+Open to collaboration and work opportunities – feel free to open an issue on any of my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" />
